@@ -1,2 +1,2 @@
 # node-typescript-app
-A NodeJS drives Typescript-based RESTful API
+A NodeJS driven Typescript-based RESTful API
