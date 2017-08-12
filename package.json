@@ -4,8 +4,12 @@
   "description": "A NodeJS drives Typescript-based RESTful API",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node dist/index.js",
     "test": "./node_modules/.bin/mocha --reporter spec --compilers ts:ts-node/register 'test/**/*.ts'"
+    "start": "gulp build && node dist/index.js",
+    "test": "mocha --reporter spec --compilers ts:ts-node/register 'test/**/*.ts'"
+>>>>>>> master
   },
   "repository": {
     "type": "git",
