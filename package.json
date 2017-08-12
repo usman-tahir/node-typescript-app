@@ -1,0 +1,25 @@
+{
+  "name": "node-typescript-app",
+  "version": "1.0.0",
+  "description": "A NodeJS drives Typescript-based RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usman-tahir/node-typescript-app.git"
+  },
+  "keywords": [],
+  "author": "usman-tahir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usman-tahir/node-typescript-app/issues"
+  },
+  "homepage": "https://github.com/usman-tahir/node-typescript-app#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.1",
+    "typescript": "^2.0.6"
+  }
+}
